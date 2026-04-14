@@ -1,0 +1,27 @@
+# Vivado 产生的垃圾和日志
+*.jou
+*.log
+*.pb
+*.str
+.Xil/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.runs/
+
+# 仿真生成的波形和编译产物
+*.vcd
+*.vvp
+*.out
+
+# VS Code 临时文件
+.vscode/
+
+# ⚠️ 明确要保留的核心文件 (作备忘，不需要写在 ignore 里)
+# !*.v
+# !*.sv
+# !*.tcl
+# !*.sh
+# !*.yaml
