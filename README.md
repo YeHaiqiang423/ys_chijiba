@@ -157,7 +157,7 @@ sudo apt install iverilog make
 Vivado 引擎有时候会在后台抽风卡死。不要慌，Linux 杀进程比 Windows 任务管理器帅多了。
 
 * **如果终端正在疯狂刷屏，你想强制停止：**
-  直接在键盘上按下 **`Ctrl + C`**（在 Linux 里这不叫复制，这叫 Interrupt 强制中断！）。
+  直接在键盘上按下 **`Ctrl + C`**（在 Linux 里这不叫复制，这叫强制中断）。
 * **如果后台有个叫 xsim 的僵尸进程作祟：**
   ```bash
   # 把所有叫 xsim 的进程全部物理超度
