@@ -25,3 +25,5 @@
 # !*.tcl
 # !*.sh
 # !*.yaml
+
+workspace/
